@@ -12,6 +12,7 @@ git clone 'https://github.com/artetxem/monoses.git'
 echo 'Done cloning Monoses ..!!'
 
 cd 'monoses'
+mkdir -p "models"
 mkdir -p "third-party"
 cd 'third-party'
 
